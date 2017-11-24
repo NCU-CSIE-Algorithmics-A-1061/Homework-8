@@ -1,5 +1,17 @@
 # Homework 8
 
+## Groups
+
+- 第一組
+- 第五組
+- 第七組
+- 第九組
+- 第十六組
+- 第十八組
+- 第二十組
+
+## Problems
+
 1. Exercise 22.1-1<br>
 Given an adjacency-list representation of a directed graph, how long does it take to compute the out-degree of every vertex? How long does it take to compute the in-degrees? 
 
